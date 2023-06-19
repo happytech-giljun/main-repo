@@ -1,0 +1,3 @@
+[submodule "sub-repe"]
+	path = sub-repe
+	url = git@github.com:happytech-giljun/sub-repe.git
